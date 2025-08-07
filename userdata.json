@@ -6,6 +6,12 @@
         "Allowoffline": false 
     },
     {
+        "device_id": "296a84f91agje8f300",
+        "key": "xxgjx",
+        "expirydate": "08-06-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "296a84f91ae8f300",
         "key": "xxx",
         "expirydate": "08-08-2025",
