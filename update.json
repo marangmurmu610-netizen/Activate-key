@@ -1,26 +1,7 @@
 {
   "version": 2026010121,
   "title": "FUCK YOU BABY",
-  "subtitle": "Update Your Application immediately v21",
-  "closeButton": true,
+  "subtitle": "Update Kar lawdeee ok",
+  "closeButton": false,
   "link": "https://t.me/Atechnicalofficial"
-}
-
-{
-  "apps": {
-    "com.example.app1": {
-      "version": 5,
-      "title": "Update Available 📢",
-      "subtitle": "Update Your Application immediately",
-      "closeButton": false,
-      "link": "https://t.me/Atechnicalofficial"
-    },
-    "com.example.app2": {
-      "version": 3,
-      "title": "New Update 🚀",
-      "subtitle": "A new version is available",
-      "closeButton": true,
-      "link": "https://t.me/Atechnicalofficial"
-    }
-  }
 }
