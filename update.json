@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 23,
   "title": "Update Available📢",
   "subtitle": "Update Your Application immediately",
-  "closeButton": false,
-  "link": "https://t.me/Atechnicalofficial"
+  "closeButton": true,
+  "link": "https://t.me/fff"
 }
